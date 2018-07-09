@@ -29,7 +29,7 @@
 
 4. git remote add origin ________
 
-**這邊告訴git目前我們要對誰做事情，在____補上網址**
+**這邊告訴git目前我們要對誰做事情，在____補上 git@github.com:'User_name'/'Project_name'.git**
 
 5. git push -u origin master
 
