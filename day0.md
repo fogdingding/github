@@ -27,3 +27,4 @@
 def hi(name):
     return 'hi {}'.format(name)
 ``` 
+8. 如果要輸出數字的特殊符號即可用[LaTex](https://www.latex-project.org/)語法
